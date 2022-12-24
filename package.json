@@ -1,0 +1,14 @@
+{
+  "name": "eros-accounts",
+  "version": "1.0.0",
+  "description": "landing page",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "david li",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.2"
+  }
+}
